@@ -1,0 +1,10 @@
+.scroll-to-top{
+    position: fixed;
+    right: 20px;
+    border: 0ch;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+
+
+}
